@@ -1,5 +1,5 @@
 PRODIGY_ML_04
-
+ 
 The task for the fourth project of Prodigy Infotech's Machine Learning Internship is to develop a hand gesture recognition model.  
 
 I have used a live dataset from my own webcam. 
